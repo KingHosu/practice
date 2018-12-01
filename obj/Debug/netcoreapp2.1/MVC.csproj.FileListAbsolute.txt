@@ -1,0 +1,144 @@
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\MVC.csprojAssemblyReference.cache
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\MVC.csproj.CoreCompileInputs.cache
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\MVC.RazorAssemblyInfo.cache
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\MVC.RazorAssemblyInfo.cs
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\MVC.AssemblyInfoInputs.cache
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\MVC.AssemblyInfo.cs
+C:\New folder\PRPC\PRPC\MVC\bin\Debug\netcoreapp2.1\MVC.deps.json
+C:\New folder\PRPC\PRPC\MVC\bin\Debug\netcoreapp2.1\MVC.runtimeconfig.json
+C:\New folder\PRPC\PRPC\MVC\bin\Debug\netcoreapp2.1\MVC.runtimeconfig.dev.json
+C:\New folder\PRPC\PRPC\MVC\bin\Debug\netcoreapp2.1\MVC.dll
+C:\New folder\PRPC\PRPC\MVC\bin\Debug\netcoreapp2.1\MVC.pdb
+C:\New folder\PRPC\PRPC\MVC\bin\Debug\netcoreapp2.1\MVC.Views.dll
+C:\New folder\PRPC\PRPC\MVC\bin\Debug\netcoreapp2.1\MVC.Views.pdb
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\MVC.TagHelpers.input.cache
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\MVC.TagHelpers.output.cache
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\MVC.RazorCoreGenerate.cache
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\AccessDenied.g.cshtml.cs
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.g.cshtml.cs
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.g.cshtml.cs
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.g.cshtml.cs
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.g.cshtml.cs
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Lockout.g.cshtml.cs
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.g.cshtml.cs
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.g.cshtml.cs
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.g.cshtml.cs
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.g.cshtml.cs
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.g.cshtml.cs
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.g.cshtml.cs
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.g.cshtml.cs
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.g.cshtml.cs
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.g.cshtml.cs
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Index.g.cshtml.cs
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.g.cshtml.cs
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.g.cshtml.cs
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.g.cshtml.cs
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.g.cshtml.cs
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.g.cshtml.cs
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.g.cshtml.cs
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.g.cshtml.cs
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.g.cshtml.cs
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPassword.g.cshtml.cs
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.g.cshtml.cs
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Error.g.cshtml.cs
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\MVC.RazorTargetAssemblyInfo.cache
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\MVC.RazorTargetAssemblyInfo.cs
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\MVC.Views.pdb
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\MVC.dll
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\MVC.pdb
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\MVC.csproj.CopyComplete
+C:\New folder\PRPC\PRPC\MVC\bin\Debug\netcoreapp2.1\SendGridLib.dll
+C:\New folder\PRPC\PRPC\MVC\bin\Debug\netcoreapp2.1\SMSVerifyLib.dll
+C:\New folder\PRPC\PRPC\MVC\bin\Debug\netcoreapp2.1\SMSVerifyLib.pdb
+C:\New folder\PRPC\PRPC\MVC\bin\Debug\netcoreapp2.1\SendGridLib.pdb
+C:\New folder\PRPC\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Views\SMSTest\Index.g.cshtml.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\bin\Debug\netcoreapp2.1\MVC.deps.json
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\bin\Debug\netcoreapp2.1\MVC.runtimeconfig.json
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\bin\Debug\netcoreapp2.1\MVC.runtimeconfig.dev.json
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\bin\Debug\netcoreapp2.1\MVC.dll
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\bin\Debug\netcoreapp2.1\MVC.pdb
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\bin\Debug\netcoreapp2.1\MVC.Views.dll
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\bin\Debug\netcoreapp2.1\MVC.Views.pdb
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\bin\Debug\netcoreapp2.1\SendGridLib.dll
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\bin\Debug\netcoreapp2.1\SMSVerifyLib.dll
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\bin\Debug\netcoreapp2.1\SMSVerifyLib.pdb
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\bin\Debug\netcoreapp2.1\SendGridLib.pdb
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\MVC.csprojAssemblyReference.cache
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\MVC.csproj.CoreCompileInputs.cache
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\MVC.RazorAssemblyInfo.cache
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\MVC.RazorAssemblyInfo.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\MVC.AssemblyInfoInputs.cache
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\MVC.AssemblyInfo.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\MVC.TagHelpers.input.cache
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\MVC.TagHelpers.output.cache
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\MVC.RazorCoreGenerate.cache
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\AccessDenied.g.cshtml.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.g.cshtml.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.g.cshtml.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.g.cshtml.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.g.cshtml.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Lockout.g.cshtml.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.g.cshtml.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.g.cshtml.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.g.cshtml.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.g.cshtml.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.g.cshtml.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.g.cshtml.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.g.cshtml.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.g.cshtml.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.g.cshtml.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Index.g.cshtml.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.g.cshtml.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.g.cshtml.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.g.cshtml.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.g.cshtml.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.g.cshtml.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.g.cshtml.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.g.cshtml.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.g.cshtml.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPassword.g.cshtml.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.g.cshtml.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Error.g.cshtml.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\Razor\Views\SMSTest\Index.g.cshtml.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\MVC.RazorTargetAssemblyInfo.cache
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\MVC.RazorTargetAssemblyInfo.cs
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\MVC.Views.pdb
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\MVC.csproj.CopyComplete
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\MVC.dll
+C:\Users\hchoi\Downloads\PRPC-master\PRPC-master\MVC\obj\Debug\netcoreapp2.1\MVC.pdb
